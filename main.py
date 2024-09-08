@@ -15,29 +15,35 @@ dictCotacoes = requests.get(strURL).json()
 # Esta Variável armazena a data atual para ser utiilizada nas requisições
 data_atual = date.today().strftime("%d/%m/%Y")
 
-try:
+
     # solicitando as informações ao úsuario, que serão usadas posteriormente.
-    ano = int(input("DIGITE O ANO: "))
-    moeda = input("DIGITE A MOEDA (Ex: USD):")
-    def validando_Busca(year, moeda): 
-            # usei este WHILE para impossibilitar a utilização de um ano superior ao atual
-            while year > int(data_atual[6:9+1]) or len(year) != 4 : print("DIGITE UM ANO VÁLIDO") ; year = int(input("DIGITE O ANO: "))
+ano = int(input("DIGITE O ANO: "))
+moeda = input("DIGITE A MOEDA (Ex: USD):")
 
-             # criando lista com as siglas das moedas
-            moedas_validas = []
-            moedas_validas_siglas = []
-            for i in dictMoedas['value']: moedas_validas.append(i)
-            for i in moedas_validas: moedas_validas_siglas.append(i['simbolo'])
+def validando_Busca(year, coin): 
+        # usei este WHILE para impossibilitar a utilização de um ano superior ao atual
+        ano = year        
+        year = str(year) 
+                              
+        while ano > int(data_atual[6:10]) or len(year) != 4:
+                year = int(input(">> DIGITE UM ANO VÁLIDO: "))
+                year = str(year)
+        year = int(year)
+        # criando lista com as siglas das moedas
+        moedas_validas = []
+        moedas_validas_siglas = []
+        for i in dictMoedas['value']: moedas_validas.append(i)
+        for i in moedas_validas: moedas_validas_siglas.append(i['simbolo'])
 
-            # este WHILE é utilizado para impossibilitar o úsuario de inserir uma moeda inválida
-            while moeda not in moedas_validas_siglas: print(f"A Moeda Inválida"); moeda = input("DIGITE A MOEDA (Ex: USD):")
+        # este WHILE é utilizado para impossibilitar o úsuario de inserir uma moeda inválida
+        while coin not in moedas_validas_siglas: 
+                print(f"A Moeda Inválida") 
+                coin = input("DIGITE A MOEDA (Ex: USD):")
 
-            return ano, moeda
+        return year, moeda
 
-    print(validando_Busca(ano, moeda))
+print(validando_Busca(ano, moeda))
                  
 
-except:
-    print("TRATAMENTO DE ERRO")
 
 
