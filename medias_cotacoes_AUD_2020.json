@@ -1,0 +1,805 @@
+{
+    "@odata.context": "https://was-p.bcnet.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata$metadata#_CotacaoMoedaPeriodo",
+    "value": [
+        {
+            "paridadeCompra": 0.7352,
+            "paridadeVenda": 0.7354,
+            "cotacaoCompra": 3.8963,
+            "cotacaoVenda": 3.8978,
+            "dataHoraCotacao": "2020-12-01 10:02:18.632",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7361,
+            "paridadeVenda": 0.7362,
+            "cotacaoCompra": 3.8926,
+            "cotacaoVenda": 3.8936,
+            "dataHoraCotacao": "2020-12-01 11:06:17.268",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7352,
+            "paridadeVenda": 0.7355,
+            "cotacaoCompra": 3.8718,
+            "cotacaoVenda": 3.8738,
+            "dataHoraCotacao": "2020-12-01 12:03:18.46",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7355,
+            "paridadeVenda": 0.7357,
+            "cotacaoCompra": 3.8679,
+            "cotacaoVenda": 3.8694,
+            "dataHoraCotacao": "2020-12-01 13:07:29.844",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7355,
+            "paridadeVenda": 0.7357,
+            "cotacaoCompra": 3.8822,
+            "cotacaoVenda": 3.8837,
+            "dataHoraCotacao": "2020-12-01 13:07:29.851",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7356,
+            "paridadeVenda": 0.7357,
+            "cotacaoCompra": 3.8437,
+            "cotacaoVenda": 3.8447,
+            "dataHoraCotacao": "2020-12-02 10:07:18.669",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7357,
+            "paridadeVenda": 0.7358,
+            "cotacaoCompra": 3.8451,
+            "cotacaoVenda": 3.846,
+            "dataHoraCotacao": "2020-12-02 11:07:19.925",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7364,
+            "paridadeVenda": 0.7366,
+            "cotacaoCompra": 3.8495,
+            "cotacaoVenda": 3.851,
+            "dataHoraCotacao": "2020-12-02 12:06:17.916",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.738,
+            "paridadeVenda": 0.7382,
+            "cotacaoCompra": 3.8561,
+            "cotacaoVenda": 3.8575,
+            "dataHoraCotacao": "2020-12-02 13:04:28.427",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.738,
+            "paridadeVenda": 0.7382,
+            "cotacaoCompra": 3.8569,
+            "cotacaoVenda": 3.8583,
+            "dataHoraCotacao": "2020-12-02 13:04:28.436",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7429,
+            "paridadeVenda": 0.7431,
+            "cotacaoCompra": 3.8695,
+            "cotacaoVenda": 3.871,
+            "dataHoraCotacao": "2020-12-03 10:08:18.365",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7427,
+            "paridadeVenda": 0.7429,
+            "cotacaoCompra": 3.8438,
+            "cotacaoVenda": 3.8453,
+            "dataHoraCotacao": "2020-12-03 11:07:17.969",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.744,
+            "paridadeVenda": 0.7442,
+            "cotacaoCompra": 3.8224,
+            "cotacaoVenda": 3.8238,
+            "dataHoraCotacao": "2020-12-03 12:07:18.081",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7445,
+            "paridadeVenda": 0.7446,
+            "cotacaoCompra": 3.8162,
+            "cotacaoVenda": 3.8171,
+            "dataHoraCotacao": "2020-12-03 13:05:32.916",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7445,
+            "paridadeVenda": 0.7446,
+            "cotacaoCompra": 3.843,
+            "cotacaoVenda": 3.844,
+            "dataHoraCotacao": "2020-12-03 13:05:32.922",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7416,
+            "paridadeVenda": 0.7421,
+            "cotacaoCompra": 3.829,
+            "cotacaoVenda": 3.832,
+            "dataHoraCotacao": "2020-12-04 10:08:17.996",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7421,
+            "paridadeVenda": 0.7423,
+            "cotacaoCompra": 3.8374,
+            "cotacaoVenda": 3.8389,
+            "dataHoraCotacao": "2020-12-04 11:03:17.575",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7437,
+            "paridadeVenda": 0.7439,
+            "cotacaoCompra": 3.8492,
+            "cotacaoVenda": 3.8506,
+            "dataHoraCotacao": "2020-12-04 12:05:19.08",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.743,
+            "paridadeVenda": 0.7435,
+            "cotacaoCompra": 3.8413,
+            "cotacaoVenda": 3.8443,
+            "dataHoraCotacao": "2020-12-04 13:05:12.451",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.743,
+            "paridadeVenda": 0.7435,
+            "cotacaoCompra": 3.8413,
+            "cotacaoVenda": 3.8443,
+            "dataHoraCotacao": "2020-12-04 13:05:12.458",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7399,
+            "paridadeVenda": 0.7401,
+            "cotacaoCompra": 3.7971,
+            "cotacaoVenda": 3.7986,
+            "dataHoraCotacao": "2020-12-07 10:05:14.981",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7423,
+            "paridadeVenda": 0.7425,
+            "cotacaoCompra": 3.7857,
+            "cotacaoVenda": 3.7872,
+            "dataHoraCotacao": "2020-12-07 11:08:20.44",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7439,
+            "paridadeVenda": 0.7441,
+            "cotacaoCompra": 3.8001,
+            "cotacaoVenda": 3.8016,
+            "dataHoraCotacao": "2020-12-07 12:02:18.609",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7442,
+            "paridadeVenda": 0.7444,
+            "cotacaoCompra": 3.7689,
+            "cotacaoVenda": 3.7703,
+            "dataHoraCotacao": "2020-12-07 13:11:49.823",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7442,
+            "paridadeVenda": 0.7444,
+            "cotacaoCompra": 3.7963,
+            "cotacaoVenda": 3.7978,
+            "dataHoraCotacao": "2020-12-07 13:11:49.83",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7415,
+            "paridadeVenda": 0.7416,
+            "cotacaoCompra": 3.7825,
+            "cotacaoVenda": 3.7835,
+            "dataHoraCotacao": "2020-12-08 10:05:21.268",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7413,
+            "paridadeVenda": 0.7415,
+            "cotacaoCompra": 3.781,
+            "cotacaoVenda": 3.7825,
+            "dataHoraCotacao": "2020-12-08 11:05:18.371",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7412,
+            "paridadeVenda": 0.7414,
+            "cotacaoCompra": 3.7746,
+            "cotacaoVenda": 3.7761,
+            "dataHoraCotacao": "2020-12-08 12:05:18.675",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7413,
+            "paridadeVenda": 0.7414,
+            "cotacaoCompra": 3.7592,
+            "cotacaoVenda": 3.7602,
+            "dataHoraCotacao": "2020-12-08 13:07:00.761",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7413,
+            "paridadeVenda": 0.7414,
+            "cotacaoCompra": 3.7743,
+            "cotacaoVenda": 3.7752,
+            "dataHoraCotacao": "2020-12-08 13:07:00.766",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7479,
+            "paridadeVenda": 0.7484,
+            "cotacaoCompra": 3.8284,
+            "cotacaoVenda": 3.8314,
+            "dataHoraCotacao": "2020-12-09 10:09:46.688",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7483,
+            "paridadeVenda": 0.7484,
+            "cotacaoCompra": 3.8157,
+            "cotacaoVenda": 3.8167,
+            "dataHoraCotacao": "2020-12-09 11:04:18.025",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7467,
+            "paridadeVenda": 0.7472,
+            "cotacaoCompra": 3.8082,
+            "cotacaoVenda": 3.8112,
+            "dataHoraCotacao": "2020-12-09 12:06:17.978",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7458,
+            "paridadeVenda": 0.7463,
+            "cotacaoCompra": 3.8207,
+            "cotacaoVenda": 3.8237,
+            "dataHoraCotacao": "2020-12-09 13:10:25.192",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7458,
+            "paridadeVenda": 0.7463,
+            "cotacaoCompra": 3.8113,
+            "cotacaoVenda": 3.8143,
+            "dataHoraCotacao": "2020-12-09 13:10:25.198",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7493,
+            "paridadeVenda": 0.7495,
+            "cotacaoCompra": 3.8174,
+            "cotacaoVenda": 3.8189,
+            "dataHoraCotacao": "2020-12-10 10:05:19.281",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7501,
+            "paridadeVenda": 0.7502,
+            "cotacaoCompra": 3.8305,
+            "cotacaoVenda": 3.8315,
+            "dataHoraCotacao": "2020-12-10 11:05:18.276",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7514,
+            "paridadeVenda": 0.7519,
+            "cotacaoCompra": 3.8191,
+            "cotacaoVenda": 3.8221,
+            "dataHoraCotacao": "2020-12-10 12:03:17.535",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7518,
+            "paridadeVenda": 0.752,
+            "cotacaoCompra": 3.7999,
+            "cotacaoVenda": 3.8014,
+            "dataHoraCotacao": "2020-12-10 13:04:02.425",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7518,
+            "paridadeVenda": 0.752,
+            "cotacaoCompra": 3.8226,
+            "cotacaoVenda": 3.8241,
+            "dataHoraCotacao": "2020-12-10 13:04:02.432",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7532,
+            "paridadeVenda": 0.7535,
+            "cotacaoCompra": 3.811,
+            "cotacaoVenda": 3.8129,
+            "dataHoraCotacao": "2020-12-11 10:04:18.776",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7535,
+            "paridadeVenda": 0.7537,
+            "cotacaoCompra": 3.8315,
+            "cotacaoVenda": 3.8329,
+            "dataHoraCotacao": "2020-12-11 11:08:18.039",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7531,
+            "paridadeVenda": 0.7533,
+            "cotacaoCompra": 3.8232,
+            "cotacaoVenda": 3.8247,
+            "dataHoraCotacao": "2020-12-11 12:09:17.441",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7535,
+            "paridadeVenda": 0.7537,
+            "cotacaoCompra": 3.8072,
+            "cotacaoVenda": 3.8087,
+            "dataHoraCotacao": "2020-12-11 13:09:43.7",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7535,
+            "paridadeVenda": 0.7537,
+            "cotacaoCompra": 3.8191,
+            "cotacaoVenda": 3.8206,
+            "dataHoraCotacao": "2020-12-11 13:09:43.711",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7568,
+            "paridadeVenda": 0.7571,
+            "cotacaoCompra": 3.8042,
+            "cotacaoVenda": 3.8062,
+            "dataHoraCotacao": "2020-12-14 10:05:20.106",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7576,
+            "paridadeVenda": 0.7577,
+            "cotacaoCompra": 3.8014,
+            "cotacaoVenda": 3.8024,
+            "dataHoraCotacao": "2020-12-14 11:04:18.221",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7563,
+            "paridadeVenda": 0.7568,
+            "cotacaoCompra": 3.84,
+            "cotacaoVenda": 3.843,
+            "dataHoraCotacao": "2020-12-14 12:02:17.542",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7537,
+            "paridadeVenda": 0.7539,
+            "cotacaoCompra": 3.8492,
+            "cotacaoVenda": 3.8507,
+            "dataHoraCotacao": "2020-12-14 13:10:24.867",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7537,
+            "paridadeVenda": 0.7539,
+            "cotacaoCompra": 3.8116,
+            "cotacaoVenda": 3.8131,
+            "dataHoraCotacao": "2020-12-14 13:10:24.874",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7523,
+            "paridadeVenda": 0.7525,
+            "cotacaoCompra": 3.8285,
+            "cotacaoVenda": 3.83,
+            "dataHoraCotacao": "2020-12-15 10:11:17.919",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7534,
+            "paridadeVenda": 0.7538,
+            "cotacaoCompra": 3.8263,
+            "cotacaoVenda": 3.8288,
+            "dataHoraCotacao": "2020-12-15 11:05:18.433",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7531,
+            "paridadeVenda": 0.7533,
+            "cotacaoCompra": 3.8496,
+            "cotacaoVenda": 3.8511,
+            "dataHoraCotacao": "2020-12-15 12:09:18.186",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7539,
+            "paridadeVenda": 0.7541,
+            "cotacaoCompra": 3.8489,
+            "cotacaoVenda": 3.8504,
+            "dataHoraCotacao": "2020-12-15 13:07:48.993",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7539,
+            "paridadeVenda": 0.7541,
+            "cotacaoCompra": 3.842,
+            "cotacaoVenda": 3.8435,
+            "dataHoraCotacao": "2020-12-15 13:07:49.009",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.757,
+            "paridadeVenda": 0.7571,
+            "cotacaoCompra": 3.866,
+            "cotacaoVenda": 3.867,
+            "dataHoraCotacao": "2020-12-16 10:06:18.817",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.756,
+            "paridadeVenda": 0.7561,
+            "cotacaoCompra": 3.8491,
+            "cotacaoVenda": 3.8501,
+            "dataHoraCotacao": "2020-12-16 11:09:31.067",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7562,
+            "paridadeVenda": 0.7564,
+            "cotacaoCompra": 3.8568,
+            "cotacaoVenda": 3.8582,
+            "dataHoraCotacao": "2020-12-16 12:03:18.768",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7563,
+            "paridadeVenda": 0.7565,
+            "cotacaoCompra": 3.8737,
+            "cotacaoVenda": 3.8752,
+            "dataHoraCotacao": "2020-12-16 13:09:38.16",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7563,
+            "paridadeVenda": 0.7565,
+            "cotacaoCompra": 3.861,
+            "cotacaoVenda": 3.8625,
+            "dataHoraCotacao": "2020-12-16 13:09:38.167",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7627,
+            "paridadeVenda": 0.7632,
+            "cotacaoCompra": 3.8645,
+            "cotacaoVenda": 3.8675,
+            "dataHoraCotacao": "2020-12-17 10:09:18.72",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7624,
+            "paridadeVenda": 0.7626,
+            "cotacaoCompra": 3.8609,
+            "cotacaoVenda": 3.8623,
+            "dataHoraCotacao": "2020-12-17 11:10:17.728",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7629,
+            "paridadeVenda": 0.7631,
+            "cotacaoCompra": 3.8654,
+            "cotacaoVenda": 3.8668,
+            "dataHoraCotacao": "2020-12-17 12:06:18.113",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7618,
+            "paridadeVenda": 0.762,
+            "cotacaoCompra": 3.8431,
+            "cotacaoVenda": 3.8446,
+            "dataHoraCotacao": "2020-12-17 13:09:33.722",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7618,
+            "paridadeVenda": 0.762,
+            "cotacaoCompra": 3.8552,
+            "cotacaoVenda": 3.8566,
+            "dataHoraCotacao": "2020-12-17 13:09:33.728",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7613,
+            "paridadeVenda": 0.7615,
+            "cotacaoCompra": 3.8814,
+            "cotacaoVenda": 3.8829,
+            "dataHoraCotacao": "2020-12-18 10:04:20.249",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7609,
+            "paridadeVenda": 0.761,
+            "cotacaoCompra": 3.8785,
+            "cotacaoVenda": 3.8794,
+            "dataHoraCotacao": "2020-12-18 11:10:19.697",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7601,
+            "paridadeVenda": 0.7603,
+            "cotacaoCompra": 3.8765,
+            "cotacaoVenda": 3.878,
+            "dataHoraCotacao": "2020-12-18 12:09:33.945",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7608,
+            "paridadeVenda": 0.7613,
+            "cotacaoCompra": 3.8773,
+            "cotacaoVenda": 3.8803,
+            "dataHoraCotacao": "2020-12-18 13:11:24.822",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7608,
+            "paridadeVenda": 0.7613,
+            "cotacaoCompra": 3.8786,
+            "cotacaoVenda": 3.8816,
+            "dataHoraCotacao": "2020-12-18 13:11:24.831",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7515,
+            "paridadeVenda": 0.7517,
+            "cotacaoCompra": 3.8937,
+            "cotacaoVenda": 3.8952,
+            "dataHoraCotacao": "2020-12-21 10:05:20.225",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7521,
+            "paridadeVenda": 0.7523,
+            "cotacaoCompra": 3.8744,
+            "cotacaoVenda": 3.8758,
+            "dataHoraCotacao": "2020-12-21 11:11:20.649",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7534,
+            "paridadeVenda": 0.7535,
+            "cotacaoCompra": 3.88,
+            "cotacaoVenda": 3.881,
+            "dataHoraCotacao": "2020-12-21 12:05:20.961",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7556,
+            "paridadeVenda": 0.7558,
+            "cotacaoCompra": 3.8867,
+            "cotacaoVenda": 3.8882,
+            "dataHoraCotacao": "2020-12-21 13:09:51.618",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7556,
+            "paridadeVenda": 0.7558,
+            "cotacaoCompra": 3.8963,
+            "cotacaoVenda": 3.8978,
+            "dataHoraCotacao": "2020-12-21 13:09:51.624",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7556,
+            "paridadeVenda": 0.7558,
+            "cotacaoCompra": 3.8869,
+            "cotacaoVenda": 3.8884,
+            "dataHoraCotacao": "2020-12-22 10:09:18.568",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7552,
+            "paridadeVenda": 0.7555,
+            "cotacaoCompra": 3.88,
+            "cotacaoVenda": 3.882,
+            "dataHoraCotacao": "2020-12-22 11:10:30.201",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7531,
+            "paridadeVenda": 0.7535,
+            "cotacaoCompra": 3.8873,
+            "cotacaoVenda": 3.8898,
+            "dataHoraCotacao": "2020-12-22 12:05:17.816",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7521,
+            "paridadeVenda": 0.7524,
+            "cotacaoCompra": 3.8682,
+            "cotacaoVenda": 3.8702,
+            "dataHoraCotacao": "2020-12-22 13:09:47.684",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7521,
+            "paridadeVenda": 0.7524,
+            "cotacaoCompra": 3.8708,
+            "cotacaoVenda": 3.8728,
+            "dataHoraCotacao": "2020-12-22 13:09:47.694",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.756,
+            "paridadeVenda": 0.7562,
+            "cotacaoCompra": 3.8983,
+            "cotacaoVenda": 3.8998,
+            "dataHoraCotacao": "2020-12-23 10:06:18.963",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7563,
+            "paridadeVenda": 0.7565,
+            "cotacaoCompra": 3.9104,
+            "cotacaoVenda": 3.9119,
+            "dataHoraCotacao": "2020-12-23 11:03:17.551",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7578,
+            "paridadeVenda": 0.758,
+            "cotacaoCompra": 3.9166,
+            "cotacaoVenda": 3.9181,
+            "dataHoraCotacao": "2020-12-23 12:09:17.76",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7578,
+            "paridadeVenda": 0.758,
+            "cotacaoCompra": 3.9392,
+            "cotacaoVenda": 3.9407,
+            "dataHoraCotacao": "2020-12-23 13:07:33.276",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7578,
+            "paridadeVenda": 0.758,
+            "cotacaoCompra": 3.9204,
+            "cotacaoVenda": 3.9219,
+            "dataHoraCotacao": "2020-12-23 13:07:33.284",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7599,
+            "paridadeVenda": 0.7601,
+            "cotacaoCompra": 3.9369,
+            "cotacaoVenda": 3.9389,
+            "dataHoraCotacao": "2020-12-24 10:08:22.688",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7599,
+            "paridadeVenda": 0.76,
+            "cotacaoCompra": 3.9334,
+            "cotacaoVenda": 3.9352,
+            "dataHoraCotacao": "2020-12-24 11:05:27.739",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7599,
+            "paridadeVenda": 0.76,
+            "cotacaoCompra": 3.9351,
+            "cotacaoVenda": 3.9368,
+            "dataHoraCotacao": "2020-12-24 11:05:27.743",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7598,
+            "paridadeVenda": 0.7599,
+            "cotacaoCompra": 3.9396,
+            "cotacaoVenda": 3.9406,
+            "dataHoraCotacao": "2020-12-28 10:05:22.696",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7588,
+            "paridadeVenda": 0.759,
+            "cotacaoCompra": 3.9533,
+            "cotacaoVenda": 3.9548,
+            "dataHoraCotacao": "2020-12-28 11:06:18.121",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7591,
+            "paridadeVenda": 0.7593,
+            "cotacaoCompra": 3.9911,
+            "cotacaoVenda": 3.9926,
+            "dataHoraCotacao": "2020-12-28 12:04:16.87",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7566,
+            "paridadeVenda": 0.7568,
+            "cotacaoCompra": 4.0106,
+            "cotacaoVenda": 4.0121,
+            "dataHoraCotacao": "2020-12-28 13:12:02.297",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7566,
+            "paridadeVenda": 0.7568,
+            "cotacaoCompra": 3.9634,
+            "cotacaoVenda": 3.9649,
+            "dataHoraCotacao": "2020-12-28 13:12:02.307",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7602,
+            "paridadeVenda": 0.7604,
+            "cotacaoCompra": 3.9579,
+            "cotacaoVenda": 3.9594,
+            "dataHoraCotacao": "2020-12-29 10:05:19.943",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.761,
+            "paridadeVenda": 0.7612,
+            "cotacaoCompra": 3.9421,
+            "cotacaoVenda": 3.9435,
+            "dataHoraCotacao": "2020-12-29 11:11:17.901",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7606,
+            "paridadeVenda": 0.7608,
+            "cotacaoCompra": 3.9595,
+            "cotacaoVenda": 3.961,
+            "dataHoraCotacao": "2020-12-29 12:05:18.05",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7613,
+            "paridadeVenda": 0.7615,
+            "cotacaoCompra": 3.9451,
+            "cotacaoVenda": 3.9465,
+            "dataHoraCotacao": "2020-12-29 13:06:41.321",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        },
+        {
+            "paridadeCompra": 0.7613,
+            "paridadeVenda": 0.7615,
+            "cotacaoCompra": 3.9539,
+            "cotacaoVenda": 3.9554,
+            "dataHoraCotacao": "2020-12-29 13:06:41.328",
+            "tipoBoletim": "Fechamento"
+        },
+        {
+            "paridadeCompra": 0.7666,
+            "paridadeVenda": 0.7668,
+            "cotacaoCompra": 3.9726,
+            "cotacaoVenda": 3.9741,
+            "dataHoraCotacao": "2020-12-30 10:09:52.082",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 0.7663,
+            "paridadeVenda": 0.7664,
+            "cotacaoCompra": 3.9975,
+            "cotacaoVenda": 3.9985,
+            "dataHoraCotacao": "2020-12-30 11:09:48.365",
+            "tipoBoletim": "Intermedi\u00e1rio"
+        }
+    ]
+}
